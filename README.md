@@ -8,13 +8,13 @@ Typically a universal workflow is followed to ensure the machine-learning proble
 
 Goal of this project was to build experience working with the tensorflow library and building deep learning models to solve a binary classification problem.In addition to this I wanted to get more experience in implemeting the universal machine learning workflow presented by Chollet (2021) in Deep Learning with Python. The workflow suggests building ML models by following 7 steps:
 
-Step 1 = Defining the problem and assembling a dataset
-Step 2 = Choosing a measure of success
-Step 3 = Deciding on an evalutation protocol
-Step 4 = Preparing your data 
-Step 5 = Developing a model that performs better than the baseline
-Step 6 = Scaling up --> developing a model that overfits
-Step 7 = Regularising the model and tuning hyperparamaters
+- Step 1 = Defining the problem and assembling a dataset
+- Step 2 = Choosing a measure of success
+- Step 3 = Deciding on an evalutation protocol
+- Step 4 = Preparing your data 
+- Step 5 = Developing a model that performs better than the baseline
+- Step 6 = Scaling up --> developing a model that overfits
+- Step 7 = Regularising the model and tuning hyperparamaters
 
 ## Reference
 Chollet, F., 2021. Deep learning with Python. Simon and Schuster.
